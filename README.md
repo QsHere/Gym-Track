@@ -7,3 +7,7 @@ GIT
 - git add "Gym Track.xlsx"
 - git commit-m "nah"
 - git push
+
+IF local have 1 ahead commit (happend when commited but forgot push and close cmd)
+- git pull --rebase origin main
+- git push origin main
