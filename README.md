@@ -5,7 +5,7 @@ GIT
 - Path: C:\Users\xkyh0\Gym-Track>
 - git status (to check modified)
 - git add "Gym Track.xlsx"
-- git commit-m "nah"
+- git commit -m "nah"
 - git push
 
 IF local have 1 ahead commit (happend when commited but forgot push and close cmd)
